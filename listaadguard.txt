@@ -1,0 +1,9 @@
+!
+! Title: Lista moja
+! Description: Moje rzeczy do blokowania
+! Last modified: 2022-02-19T06:01:15.343Z
+!
+!
+!
+||youtube.com^
+||youtube.pl^
